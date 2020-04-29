@@ -512,3 +512,14 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+
+
+#roomImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  opacity: 0.8;
+}
+
+#roomImg:hover {opacity: 1;}
+
